@@ -1,0 +1,28 @@
+div{
+    border-radius: 25px;
+    float: right;
+    position: relative;
+    padding-bottom: 30px; 
+    margin-top: 0;
+}
+
+*{
+    margin: 0;
+    padding: 0;
+}
+ul li{
+    list-style-type: none;
+    text-transform: capitalize;
+background: #222;
+display: block;
+padding: 35px 30px;
+font-size:x-large;;
+font-weight: 200;
+font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+font-style: italic;
+font-synthesis: style;
+color: #f15025;
+background-size: 100px;
+}
+
+

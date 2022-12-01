@@ -1,0 +1,110 @@
+
+    #elcome::before{
+    content:"W";
+    font-weight: bold;
+    font-size: 4rem;
+    font-style: italic
+}
+.passport{
+    float: right;
+    padding-top: 120px;
+    padding-right: 0px;
+    border-radius: 40px;
+    padding-bottom: 200px;
+
+}
+#elcome{
+    height: 50;
+    color: red;
+    width: 170px; 
+    height: 110px;
+    font-style: italic;
+    font-family: 'Times New Roman', Times, serif;
+    color: red;
+    background: black;
+    border-style: solid;
+    border-radius: 5px;
+    animation-name: move;
+    animation-duration: 5s;
+    animation-iteration-count: infinite;
+    float: left;
+}
+
+@keyframes move {
+    0%{
+        transform: translateX(20px);
+    }
+    50%{
+        transform: translateX(100px);
+        background: skyblue;
+         
+      
+    }
+    75%{
+        transform: translateX(50px);
+        background: black;   
+    }
+    100%{
+        transform: translateX(20px);
+        background: blue;   
+    }
+}
+body{
+    background: rgba(0,0,255,0.7);
+}
+*{
+    margin: 0;
+    padding: 0;
+}
+.name{
+    list-style-type: none;
+    text-transform: capitalize;
+background: rgba(0,0,0,0.8);
+display: block;
+padding: 35px 30px;
+font-size:x-large;;
+font-weight: 200;
+font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+font-style: italic;
+font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+font-size: medium;
+font-synthesis: style;
+color: #f15025;
+background-size: 100px;
+padding-top: 35px;
+border: solid rgba(255,0,0,0.4);
+}
+
+a{
+    width: 200px;
+    height: 200px;
+    background: rgba(0,0,0,0.8);
+    border: solid black 2px;
+    text-align: center;
+    color: rgba(255,0,0,0.7);
+    font-size: 35px;
+    margin: 50px;
+    padding-top: -100px;
+    border-radius: 10px; 
+    border: 50px;
+;
+}
+.base{
+    background: rgba(0,0,0,1);
+    align-items: center;
+    justify-content: top;
+    font-weight: bold;
+    font-size: 15px;
+    color: white;
+    font-style: italic;
+    background-size: cover;
+    background-repeat: repeat;
+    border: solid red 3px;
+    padding: 10px 10px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    
+    
+
+    
+}
+

@@ -1,0 +1,30 @@
+.passport{
+  float: right;
+  padding: 0;
+  margin: 0;
+ border: solid black 3px; 
+ background: black;
+ border-radius: 10px;
+}
+h2{
+        height: 20px;
+        height: 60px;
+        font-style: italic;
+        font-family: 'Times New Roman', Times, serif;
+        background: blue;
+        border-style: solid ;   
+}
+
+.career{
+        height: 100;
+        color: red;
+        width: 250px; 
+        height: 110px;
+        font-style: italic;
+        font-family: 'Times New Roman', Times, serif;
+        color: blue;
+        background: black;
+        border-style: solid;
+        border-radius: 5px;
+}
+
