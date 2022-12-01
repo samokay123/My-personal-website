@@ -74,6 +74,9 @@ background-size: 100px;
 padding-top: 35px;
 border: solid rgba(255,0,0,0.4);
 }
+.Linkedin{
+
+}
 
 a{
     width: 200px;
@@ -101,10 +104,62 @@ a{
     background-repeat: repeat;
     border: solid red 3px;
     padding: 10px 10px;
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
-    
-    
+    font-family: Verdana, Geneva, Tahoma, sans-serif;   
+}
+.LI{
+    font-size: 20px;
+    color: blue;
+    background: rgba(255,0,0,0.7);
+}
+.F{
+    font-size: 20px;
+    color: blue;
+    background: rgba(255,0,0,0.7);
+   
 
-    
+}
+.GI{
+    font-size: 20px;
+    color: blue;
+    background: rgba(255,0,0,0.7);
+}
+.T{
+    font-size: 20px;
+    color: blue;
+    background: rgba(255,0,0,0.7);
+
 }
 
+.G{
+    font-size: 20px;
+    color: blue;
+    background: rgba(255,0,0,0.7);
+    text-decoration: none;
+}
+h4{
+    font-size: 20px;
+    color: blue;
+
+}
+.out{
+    font-size: 20px;
+    color: blue;
+
+}
+.call{
+    font-size: 20px;
+    color: blue;
+}
+.tell{
+    font-size: 20px;
+    color: blue;
+    background: black;
+}
+.samokay{
+    float:right;
+
+}
+.copy{
+    color: black;
+    background: blue;
+}
